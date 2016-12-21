@@ -9,5 +9,5 @@
 </swiper>		
 ]]></content>
 	<tabTrigger>wxswiper</tabTrigger>
-	<scope>text.wxml</scope>
+	<!-- <scope>text.wxml</scope> -->
 </snippet>

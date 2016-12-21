@@ -5,5 +5,5 @@
 </scroll-view>	
 ]]></content>
 	<tabTrigger>wxscrollview</tabTrigger>
-	<scope>text.wxml</scope>
+	<!-- <scope>text.wxml</scope> -->
 </snippet>
